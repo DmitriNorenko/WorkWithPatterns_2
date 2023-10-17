@@ -13,7 +13,7 @@ namespace WorkWithPatterns_2
     public class Mem : Commands
     {
         YoutubeClient client;
-        public string Url = "https://youtu.be/sc0kNKVmaek?si=Eavnw7QNjOeoVbDH";
+        public string Url = "https://youtu.be/6PKWrJ-qmEQ?si=JQbDFYjkWCKYNpPX";
         public Mem(YoutubeClient client)
         {
             this.client = client;
